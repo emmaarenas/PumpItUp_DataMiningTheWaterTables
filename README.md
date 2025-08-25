@@ -33,16 +33,14 @@ El análisis utiliza las siguientes librerías para procesamiento de datos, visu
 ```
 PUMPITUP_DATAMININGTHEWATERTABLES/
 │
-├── 📂 Datasets/
-│   ├── df_train_cleaned.csv         # Dataset de entrenamiento limpio
-│   ├── df_test_cleaned.csv          # Dataset de test limpio
-│   ├── df_train_full.csv            # Dataset combinado con labels
-│   ├── train.csv, test.csv, labels.csv  # Datos originales
+├── 📂 Datasets/ # Los datos de la competición no están incluidos (reglas de DrivenData). Puedes conseguir los datos participando en el concurso.
 │
 ├── 📂 Notebooks/
 │   └── PumpItUp_DataMiningTheWaterTables.ipynb
 │
 ├── Environment.yml
+├── .gitignore
+├── LICENSE.txt
 └── README.md
 ```
 
