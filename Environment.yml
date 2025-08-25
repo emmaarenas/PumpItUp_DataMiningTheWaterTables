@@ -1,0 +1,17 @@
+name: water_pump
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - feature_engine
+  - plotly
+  - nbformat
+  - imbalanced-learn
+  - xgboost
+  
